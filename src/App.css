@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container{
+  width: 800px;
+  margin: 60px auto;
+  background-color: #ccc;
+  box-shadow: 5px 5px 21px 1px #000000;
+  display: flex;
+  align-items: flex-start;
+}
